@@ -1,4 +1,4 @@
-# Project Name : Justice must be served
+# Project Name : Crush Your Competition
 
 ### Tech Stack:
 <table>
@@ -11,4 +11,4 @@
 
 ### The project looks like
 
-![Screenshot](/1.png)
+![Screenshot](1.PNG)
